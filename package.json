@@ -1,0 +1,11 @@
+{
+  "name": "zsn-header",
+  "version": "1.0.0",
+  "description": "This is a custom header component for React. You can change background color of this header component and add brand name and menu bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zisanur Haque",
+  "license": "ISC"
+}
